@@ -1,0 +1,12 @@
+PV:
+  peak: 10000
+battery:
+  cappacity: 16000
+  max_charge_power: 10000
+  max_discharge_power: 10000
+  efficiency: 85
+time:
+  start: 2022-07-01
+  end: 2024-06-30
+LogFolder:
+  Folder: "daily/"
